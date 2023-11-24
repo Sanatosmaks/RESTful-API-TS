@@ -1,0 +1,4 @@
+to run server create .env from .env.exemple 
+npm i 
+npm run devtest
+
